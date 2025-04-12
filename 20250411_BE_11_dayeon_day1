@@ -1,0 +1,13 @@
+1. find oz
+2. cal 2024 5
+3. echo Hello Linux > oz.txt
+(3번 답 하나 더) echo Hello Linux | tee oz.txt
+4. 자동 줄 넘기기 apple
+            banana
+            orange
+5. !4
+6. 5
+7. 1
+8. echo Hello World! | tee example.txt
+Aliases
+echo file.txt | xargs rm
